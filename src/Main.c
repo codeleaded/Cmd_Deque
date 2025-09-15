@@ -10,6 +10,8 @@ int main(int argc,const char *argv[]){
     Deque_Push(&d,(int[]){ 4 });
     Deque_Push(&d,(int[]){ 5 });
 
+    
+
     Deque_Free(&d);
 
     return 0;
